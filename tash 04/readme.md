@@ -3,7 +3,7 @@
 
 ### 2. create your SUDT tokens on Layer 1
 ![](1.png)
-### 4.Deposit to Layer 2
+### 3.Deposit to Layer 2
 ![](2.png)
 
-### 5.SUDT ID :2837
+### 4.SUDT ID :2837
